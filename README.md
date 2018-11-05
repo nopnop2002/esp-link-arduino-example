@@ -10,15 +10,16 @@ http://nopnop2002.webcrow.jp/esp-link/esp-link-1.html
 https://github.com/jeelabs/el-client   
 
 オリジナルの幾つかのサンプルは、SC16IS750(SPI-to-UART変換チップ)を使ってUART通信を行っています。   
-このバージョンはハードウェアUARTを使います。
+このバージョンはハードウェアUARTを使ってesp-linkと通信します。
 
 ---
 
 Arduino example sketch for esp-link.   
 
-The original is this.   
+The original is here.   
 
 https://github.com/jeelabs/el-client   
 
-Several original samples are doing UART communication using SC16IS750 (SPI-to-UART change chip).   
-This version uses hardware UART.   
+Several original examples are doing UART communication using SC16IS750 (SPI-to-UART exchange chip).   
+This version communicates with esp-link using hardware UART.   
+
