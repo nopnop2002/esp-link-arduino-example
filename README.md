@@ -23,6 +23,8 @@ https://github.com/jeelabs/el-client
 Several original examples are doing UART communication using SC16IS750 (SPI-to-UART exchange chip).   
 This version communicates with esp-link using hardware UART.   
 
+---
+
 Upload esp-link firmware to ESP8266.   
 esp-link firmware is here.   
 https://github.com/jeelabs/esp-link   
@@ -37,5 +39,5 @@ Connect ESP8266 to Arduino via standard UART.
 |RXd|--|TXd|
 |GND|--|GND|
 
-Connect ESP8266 using telnet.   
+Connect IP of ESP8266 using telnet.   
 
