@@ -39,5 +39,7 @@ Connect ESP8266 to Arduino via standard UART.
 |RXd|--|TXd|
 |GND|--|GND|
 
+Reset Arduino.   
+
 Connect IP of ESP8266 using telnet.   
 
