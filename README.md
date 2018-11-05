@@ -33,14 +33,14 @@ Connect soft_access_point of ESP8266.
 SSID is ESP_AABBCC.   
 AABBCC is part of ESP8266 MAC address.
 
-Connect WEB setting page.   
+Open WEB setting page.   
 http://192.168.4.1   
 Configure your real_access_point setting using web interface.   
 
 Restart ESP8266.   
 
 Upload example sketch to Arduino.   
-If you connect to ESP8266 via UART,disconnect UART wire.   
+If you connect to ESP8266 via UART, you have to disconnect UART wire.   
 
 Connect ESP8266 to Arduino via standard UART.   
 
