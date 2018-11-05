@@ -29,8 +29,13 @@ Upload esp-link firmware to ESP8266.
 esp-link firmware is here.   
 https://github.com/jeelabs/esp-link   
 
-Configure your AP setting using web interface.   
-http://your_ESP8266's_IP   
+Connect soft_access_point of ESP8266.   
+SSID is ESP_AABBCC.   
+AABBCC is part of ESP8266 MAC address.
+
+Connect WEB setting page.   
+http://192.168.4.1   
+Configure your real_access_point setting using web interface.   
 
 Restart ESP8266.   
 
