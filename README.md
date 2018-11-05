@@ -29,6 +29,11 @@ Upload esp-link firmware to ESP8266.
 esp-link firmware is here.   
 https://github.com/jeelabs/esp-link   
 
+Configure your AP setting using web interface.   
+http://your_ESP8266's_IP   
+
+Restart ESP8266.   
+
 Upload example sketch to Arduino.   
 If you connect to ESP8266 via UART,disconnect UART wire.   
 
@@ -42,5 +47,5 @@ Connect ESP8266 to Arduino via standard UART.
 
 Connect IP of ESP8266 using telnet.   
 
-Reset Arduino.   
+Restart Arduino.   
 
