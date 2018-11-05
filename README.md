@@ -30,6 +30,7 @@ https://github.com/jeelabs/esp-link
 Upload example sketch to Arduino.   
 
 Connect ESP8266 to Arduino via standard UART.   
+
 |ESP8266||Arduino|
 |:-:|:-:|:-:|
 |TXd|--|RXd|
