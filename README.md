@@ -10,6 +10,6 @@ http://nopnop2002.webcrow.jp/esp-link/esp-link-1.html
 
 https://github.com/jeelabs/el-client   
 
-オリジナルのサンプルでは、SC16IS750(SPI-to-UART変換チップ)を使ってUART通信行う前提になっていますが   
+オリジナルでは、SC16IS750(SPI-to-UART変換チップ)を使ってUART通信を行うサンプルが多いです。   
 このバージョンはハードウェアUARTを使います。
 
