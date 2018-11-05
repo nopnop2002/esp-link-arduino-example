@@ -35,7 +35,10 @@ AABBCC is part of ESP8266 MAC address.
 
 Open WEB setting page.   
 http://192.168.4.1   
-Configure your real_access_point setting using web interface.   
+ Configure your real_access_point setting using web interface.   
+ Enable SLIP on serial port.   
+ Enable MQTT client.   
+ Set MQTT server IP.   
 
 Restart ESP8266.   
 
