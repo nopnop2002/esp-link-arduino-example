@@ -30,6 +30,7 @@ esp-link firmware is here.
 https://github.com/jeelabs/esp-link   
 
 Upload example sketch to Arduino.   
+If you connect to ESP8266 via UART,disconnect UART wire.   
 
 Connect ESP8266 to Arduino via standard UART.   
 
