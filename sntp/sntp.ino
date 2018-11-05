@@ -116,7 +116,7 @@ void loop() {
   
       // 日本標準時間
       uint8_t DayOfWeek = dow(epoch); 
-      showTime("The JST time is ", epoch, dow_char_JP(DayOfWeek));
+      showTime("Current time is ", epoch, dow_char_JP(DayOfWeek));
       last = millis();
     }
   } else {
